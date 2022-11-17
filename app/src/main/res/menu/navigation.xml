@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_summary"
+        android:title="@string/title_summary"/>
+    <item
+        android:id="@+id/navigation_income"
+        android:title="@string/title_income"/>
+    <item
+        android:id="@+id/navigation_outlay"
+        android:title="@string/title_outlay"/>
+</menu>
